@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928914863684",
+    "project_id": "mob-auth-with-bloc",
+    "storage_bucket": "mob-auth-with-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928914863684:android:f20135ca677951fc84ae11",
+        "android_client_info": {
+          "package_name": "com.example.phone_validations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928914863684-4fg8dufq3a10sjmvpfa9ukv1460mddkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYnxUrvNjzvopHwgauI6KMq3_7mDnqrJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928914863684-4fg8dufq3a10sjmvpfa9ukv1460mddkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
